@@ -8436,7 +8436,7 @@ exports.BattlePokedex = {
 		formeLetter: "M",
 		types: ["Ice", "Ghost"],
 		gender: "F",
-		baseStats: {hp: 100, atk: 40, def: 80, spa: 150, spd: 80, spe: 140},
+		baseStats: {hp: 70, atk: 40, def: 80, spa: 150, spd: 80, spe: 140},
 		abilities: {0: "Frozen Spectral"},
 		heightm: 1.5,
 		weightkg: 27.2,
