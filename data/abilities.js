@@ -2648,6 +2648,17 @@ exports.BattleAbilities = {
 		rating: 5,
 		num: 74,
 	},
+		"primalinstinct": {
+		shortDesc: "This Pokemon's Dragon- and Steel-type moves are 33% stronger.",
+		onModifyAtkPriority: 5
+		onModifyAtk: function (atk) {
+			return this.chainModify(2);
+			},
+			id: "primalinstinct
+			name: "Primal Instinct",
+			rating: 5,
+			num: -74,	
+	},
 	"queenlymajesty": {
 		desc: "While this Pokemon is active, priority moves from opposing Pokemon targeted at allies are prevented from having an effect.",
 		shortDesc: "While this Pokemon is active, allies are protected from opposing priority moves.",
