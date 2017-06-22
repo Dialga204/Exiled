@@ -6970,7 +6970,7 @@ exports.BattlePokedex = {
 		forme: "Mega",
 		formeLetter: "M",
 		types: ["Grass", "Ground"],
-		baseStats: {hp: 105, atk: 129, def: 125, spa: 85, spd: 105, spe: 76},
+		baseStats: {hp: 95, atk: 139, def: 135, spa: 85, spd: 105, spe: 76},
 		abilities: {0: "Grassy Surge"},
 		heightm: 3.2,
 		weightkg: 340.6,
