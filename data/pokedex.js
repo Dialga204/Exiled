@@ -8602,7 +8602,7 @@ exports.BattlePokedex = {
 		formeLetter: "P",
 		types: ["Steel", "Dragon"],
 		gender: "N",
-		baseStats: {hp: 100, atk: 130, def: 150, spa: 180, spd: 130, spe: 90},
+		baseStats: {hp: 100, atk: 130, def: 130, spa: 180, spd: 100, spe: 90},
 		abilities: {0: "Filter"},
 		heightm: 5.4,
 		weightkg: 730,
